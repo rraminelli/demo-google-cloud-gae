@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rraminelli/demo-api-spring-boot.svg?branch=master)](https://travis-ci.org/rraminelli/demo-api-spring-boot)
+[![Build Status](https://travis-ci.org/rraminelli/demo-google-cloud-gae.svg?branch=master)](https://travis-ci.org/rraminelli/demo-google-cloud-gae)
 
 # Demo API spring boot - Ambiente Google Cloud (gae)
 
